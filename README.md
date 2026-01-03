@@ -113,9 +113,3 @@ This project is licensed under the **MIT License**.
 ##  Contributer
 
 **Made By Diya Kharb**
-```
-If you want, next I can:
-- Reduce screenshots to **best 6**
-- Improve **repo folder naming**
-- Help you **pin this project strategically** on GitHub profile
-```
