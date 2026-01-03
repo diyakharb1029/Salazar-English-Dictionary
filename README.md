@@ -84,7 +84,7 @@ Node.js server handling contact form requests and email delivery successfully.
 1. Clone the repository:
    ```bash
    git clone https://github.com/diyakharb1029/Salazar-English-Dictionary.git
-````
+   ```
 
 2. Install backend dependencies:
 
@@ -102,13 +102,13 @@ Node.js server handling contact form requests and email delivery successfully.
 
 > Ensure MongoDB is running locally or connected via URI.
 
----
+
 
 ##  License
 
 This project is licensed under the **MIT License**.
 
----
+
 
 ##  Contributer
 
