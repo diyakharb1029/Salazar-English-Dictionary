@@ -39,6 +39,8 @@ Salazar – English Dictionary is a complete web-based dictionary system that in
 
 
 
+
+  
 ##  Screenshots
 
 ### Dashboard
